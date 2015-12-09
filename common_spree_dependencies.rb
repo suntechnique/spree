@@ -18,7 +18,7 @@ end
 platforms :ruby do
   gem 'mysql2'
   gem 'pg'
-  gem 'sqlite3'
+  #gem 'sqlite3'
 end
 
 group :test do
